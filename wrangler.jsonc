@@ -1,0 +1,7 @@
+{
+  "name": "farun-beijiang",
+  "compatibility_date": "2026-08-28",
+  "assets": {
+    "directory": "./dist/client"
+  }
+}
